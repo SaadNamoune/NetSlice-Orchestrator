@@ -1,0 +1,5 @@
+ryu>=4.34
+mininet>=2.3.0
+eventlet>=0.35
+webob>=1.8
+pytest>=8.0
